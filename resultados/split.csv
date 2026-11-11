@@ -1,0 +1,144 @@
+foto,categoria,split
+factura_001_1.jpg,Ropa y accesorios,prueba
+factura_002_1.jpeg,Restaurantes y domicilios,entrenamiento
+factura_003_1.jpg;factura_003_2.jpg,Supermercado,entrenamiento
+factura_004_1.jpg,Transporte,prueba
+factura_005_1.jpg,Entretenimiento,entrenamiento
+factura_006_1.jpg,Hogar,entrenamiento
+factura_007_1.jpg,Transporte,prueba
+factura_008_1.jpg,Ropa y accesorios,entrenamiento
+factura_009_1.jpg,Salud,entrenamiento
+factura_010_1.jpg,Supermercado,entrenamiento
+factura_011_1.jpg,Otros,prueba
+factura_012_1.jpeg,Restaurantes y domicilios,entrenamiento
+factura_013_1.jpeg,Restaurantes y domicilios,entrenamiento
+factura_014_1.jpeg,Restaurantes y domicilios,entrenamiento
+factura_015_1.jpeg,Restaurantes y domicilios,prueba
+factura_016_1.jpeg,Restaurantes y domicilios,entrenamiento
+factura_017_1.jpeg,Restaurantes y domicilios,prueba
+factura_018_1.jpeg,Restaurantes y domicilios,entrenamiento
+factura_019_1.jpg;factura_019_2.jpg,Salud,prueba
+factura_020_1.jpg,Restaurantes y domicilios,prueba
+factura_021_1.jpg,Supermercado,entrenamiento
+factura_022_1.jpg,Supermercado,entrenamiento
+factura_023_1.jpg,Supermercado,entrenamiento
+factura_024_1.jpg,Supermercado,entrenamiento
+factura_025_1.jpg,Supermercado,entrenamiento
+factura_026_1.jpeg,Restaurantes y domicilios,entrenamiento
+factura_027_1.jpeg,Entretenimiento,entrenamiento
+factura_028_1.jpeg,Supermercado,entrenamiento
+factura_029_1.jpeg,Supermercado,entrenamiento
+factura_030_1.jpeg,Supermercado,entrenamiento
+factura_031_1.jpeg,Supermercado,entrenamiento
+factura_032_1.jpeg,Supermercado,entrenamiento
+factura_033_1.jpeg,Supermercado,prueba
+factura_034_1.jpeg,Supermercado,entrenamiento
+factura_035_1.jpeg,Supermercado,prueba
+factura_036_1.jpeg,Supermercado,prueba
+factura_037_1.jpeg,Supermercado,entrenamiento
+factura_038_1.jpeg,Supermercado,prueba
+factura_039_1.jpeg,Supermercado,entrenamiento
+factura_040_1.png,Supermercado,entrenamiento
+factura_041_1.png,Supermercado,prueba
+factura_042_1.png,Supermercado,entrenamiento
+factura_043_1.png,Supermercado,entrenamiento
+factura_044_1.png,Supermercado,prueba
+factura_045_1.png,Supermercado,prueba
+factura_046_1.png,Supermercado,entrenamiento
+factura_047_1.png,Supermercado,entrenamiento
+factura_048_1.png,Supermercado,entrenamiento
+factura_049_1.png,Supermercado,entrenamiento
+factura_050_1.png,Supermercado,entrenamiento
+factura_051_1.png,Supermercado,entrenamiento
+factura_052_1.png,Otros,entrenamiento
+factura_053_1.png,Supermercado,prueba
+factura_054_1.jpg,Entretenimiento,entrenamiento
+factura_055_1.png,Entretenimiento,entrenamiento
+factura_056_1.png,Entretenimiento,prueba
+factura_057_1.png,Entretenimiento,entrenamiento
+factura_058_1.png,Entretenimiento,entrenamiento
+factura_059_1.png,Entretenimiento,prueba
+factura_060_1.png,Entretenimiento,entrenamiento
+factura_061_1.png,Entretenimiento,entrenamiento
+factura_062_1.png,Entretenimiento,prueba
+factura_063_1.png,Entretenimiento,entrenamiento
+factura_064_1.jpg;factura_064_2.jpg,Servicios,entrenamiento
+factura_065_1.png,Entretenimiento,entrenamiento
+factura_066_1.jpg;factura_066_2.jpg,Entretenimiento,entrenamiento
+factura_067_1.jpg;factura_067_2.jpg,Servicios,prueba
+factura_068_1.jpg;factura_068_2.jpg,Entretenimiento,entrenamiento
+factura_069_1.jpg;factura_069_2.jpg,Otros,prueba
+factura_070_1.jpg;factura_070_2.jpg,Servicios,entrenamiento
+factura_071_1.jpg;factura_071_2.jpg,Servicios,prueba
+factura_072_1.jpg;factura_072_2.jpg,Servicios,entrenamiento
+factura_073_1.jpg;factura_073_2.jpg,Servicios,prueba
+factura_074_1.jpg;factura_074_2.jpg,Servicios,entrenamiento
+factura_075_1.jpg;factura_075_2.jpg,Servicios,entrenamiento
+factura_076_1.jpg;factura_076_2.jpg,Servicios,entrenamiento
+factura_077_1.jpg,Servicios,entrenamiento
+factura_078_1.jpg,Servicios,entrenamiento
+factura_079_1.jpg,Restaurantes y domicilios,entrenamiento
+factura_080_1.jpg,Educación,entrenamiento
+factura_081_1.jpg,Salud,entrenamiento
+factura_082_1.jpg;factura_082_2.jpg,Transporte,entrenamiento
+factura_083_1.jpg,Restaurantes y domicilios,entrenamiento
+factura_084_1.jpg,Educación,entrenamiento
+factura_085_1.jpg,Salud,prueba
+factura_086_1.jpg,Educación,entrenamiento
+factura_087_1.jpg,Entretenimiento,entrenamiento
+factura_088_1.jpg,Educación,prueba
+factura_089_1.jpg,Salud,entrenamiento
+factura_090_1.jpg,Educación,prueba
+factura_091_1.jpg,Entretenimiento,prueba
+factura_092_1.jpg,Otros,entrenamiento
+factura_093_1.jpg,Hogar,entrenamiento
+factura_094_1.jpg;factura_094_2.jpg,Otros,entrenamiento
+factura_095_1.jpg,Otros,entrenamiento
+factura_096_1.jpg;factura_096_2.jpg,Otros,entrenamiento
+factura_097_1.jpg,Educación,entrenamiento
+factura_098_1.jpg,Ropa y accesorios,entrenamiento
+factura_099_1.jpg;factura_099_2.jpg,Otros,entrenamiento
+factura_100_1.jpg,Educación,entrenamiento
+factura_101_1.jpg;factura_101_2.jpg,Otros,prueba
+factura_102_1.jpg;factura_102_2.jpg,Otros,entrenamiento
+factura_103_1.jpg,Hogar,entrenamiento
+factura_104_1.jpg,Salud,entrenamiento
+factura_105_1.jpg,Ropa y accesorios,entrenamiento
+factura_106_1.jpg,Salud,prueba
+factura_107_1.jpg;factura_107_2.jpg,Transporte,entrenamiento
+factura_108_1.jpg;factura_108_2.jpg,Transporte,entrenamiento
+factura_109_1.jpg;factura_109_2.jpg,Transporte,entrenamiento
+factura_110_1.jpg;factura_110_2.jpg,Transporte,prueba
+factura_111_1.jpg;factura_111_2.jpg,Transporte,prueba
+factura_112_1.jpg;factura_112_2.jpg,Transporte,prueba
+factura_113_1.jpg;factura_113_2.jpg,Transporte,entrenamiento
+factura_114_1.jpg;factura_114_2.jpg,Transporte,entrenamiento
+factura_115_1.jpg;factura_115_2.jpg,Transporte,prueba
+factura_116_1.jpg;factura_116_2.jpg,Transporte,entrenamiento
+factura_117_1.jpg,Transporte,entrenamiento
+factura_118_1.png,Transporte,entrenamiento
+factura_119_1.png,Transporte,entrenamiento
+factura_120_1.png,Transporte,entrenamiento
+factura_121_1.png,Transporte,entrenamiento
+factura_122_1.png,Transporte,entrenamiento
+factura_123_1.png,Transporte,entrenamiento
+factura_124_1.png,Transporte,entrenamiento
+factura_125_1.png,Transporte,entrenamiento
+factura_126_1.png,Transporte,entrenamiento
+factura_127_1.png,Transporte,entrenamiento
+factura_128_1.png,Servicios,entrenamiento
+factura_129_1.png,Servicios,entrenamiento
+factura_130_1.png,Servicios,prueba
+factura_131_1.png,Servicios,entrenamiento
+factura_132_1.png,Servicios,entrenamiento
+factura_133_1.png,Servicios,entrenamiento
+factura_134_1.png,Servicios,entrenamiento
+factura_135_1.jpg,Otros,entrenamiento
+factura_136_1.jpg,Hogar,prueba
+factura_137_1.jpg,Transporte,entrenamiento
+factura_138_1.jpg,Transporte,prueba
+factura_139_1.jpg,Salud,entrenamiento
+factura_140_1.jpg,Salud,entrenamiento
+factura_141_1.jpg,Salud,entrenamiento
+factura_142_1.jpg,Educación,entrenamiento
+factura_143_1.jpg,Salud,entrenamiento

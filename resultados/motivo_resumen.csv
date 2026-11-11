@@ -1,0 +1,5 @@
+motor_ocr,motivo_aceptable_%,IC95
+paddleocr,72.2,56–84
+doctr,72.2,56–84
+easyocr,66.7,50–80
+tesseract,61.1,45–75

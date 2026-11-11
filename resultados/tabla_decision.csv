@@ -1,0 +1,5 @@
+modelo_ocr,clasificador,monto_ok_%,fecha_ok_%,categoria_ok_%,motivo_ok_%,sin_correccion_%,IC95_sin_correccion,monto_fecha_categoria_%,seg_por_factura,dispositivo
+paddleocr,Regresión logística,83.3,83.3,83.3,72.2,52.8,37–68,63.9,42.25,CPU
+easyocr,k-NN (k=5),55.6,69.4,75.0,66.7,30.6,18–47,41.7,3.16,GPU
+tesseract,Regresión logística,63.9,69.4,80.6,61.1,27.8,16–44,44.4,4.76,CPU (idioma eng)
+doctr,Regresión logística,72.2,63.9,83.3,72.2,25.0,14–41,33.3,0.5,GPU

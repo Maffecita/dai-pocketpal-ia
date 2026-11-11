@@ -1,0 +1,13 @@
+motor_ocr,clasificador,exactitud_entrenamiento,exactitud_prueba,f1_macro_prueba,f1_macro_validacion_cruzada
+tesseract,k-NN (k=5),100.0,69.4,52.2,57.0
+tesseract,Regresión logística,99.1,80.6,73.4,59.0
+tesseract,Naive Bayes,54.2,41.7,20.2,20.2
+easyocr,k-NN (k=5),100.0,75.0,66.0,61.1
+easyocr,Regresión logística,99.1,83.3,74.2,60.5
+easyocr,Naive Bayes,55.1,41.7,20.2,22.7
+doctr,k-NN (k=5),100.0,77.8,68.9,58.4
+doctr,Regresión logística,98.1,83.3,76.9,68.4
+doctr,Naive Bayes,56.1,41.7,20.2,23.7
+paddleocr,k-NN (k=5),100.0,77.8,67.6,60.4
+paddleocr,Regresión logística,98.1,83.3,76.3,65.1
+paddleocr,Naive Bayes,56.1,47.2,27.1,23.7

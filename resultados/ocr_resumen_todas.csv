@@ -1,0 +1,5 @@
+motor,facturas,monto_ok,monto_en_texto,fecha_ok,fecha_en_texto,segundos_por_factura,dispositivo
+doctr,143,72.7,95.8,71.3,91.6,0.47,GPU
+easyocr,143,56.6,71.3,68.5,81.8,2.87,GPU
+paddleocr,143,82.5,95.8,79.7,93.0,40.72,CPU
+tesseract,143,64.3,82.5,63.6,77.6,4.89,CPU (idioma eng)
