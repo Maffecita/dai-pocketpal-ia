@@ -127,7 +127,7 @@ La métrica principal del proyecto es el **% de facturas que el usuario no tendr
 <p align="center"><img src="imagenes/grafica_decision.png" width="95%"></p>
 
 | Modelo OCR | Monto | Fecha | Categoría | Motivo | **Sin corrección** |
-|---|---|---|---|---|---|
+|----|----|----|----|----|----|
 | **PaddleOCR** | 83 % | 83 % | 83 % | 72 % | **53 %** (IC 37–68) |
 | EasyOCR | 56 % | 69 % | 75 % | 67 % | 31 % |
 | Tesseract | 64 % | 69 % | 81 % | 61 % | 28 % |
