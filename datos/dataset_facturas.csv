@@ -1,0 +1,144 @@
+id,foto,categoria,monto_cop,fecha,motivo,conjunto
+1,factura_001_1.jpg,Ropa y accesorios,20000,2026-10-10,Compra de piedras decorativas para ropa,prueba
+2,factura_002_1.jpeg,Restaurantes y domicilios,97000,2026-10-24,Compra de desayuno,entrenamiento
+3,factura_003_1.jpg + factura_003_2.jpg,Supermercado,985694,2026-06-15,Mercado del mes de junio,entrenamiento
+4,factura_004_1.jpg,Transporte,64000,2026-10-15,Gasolina del carro,prueba
+5,factura_005_1.jpg,Entretenimiento,93200,2026-10-06,Boletas de cine,entrenamiento
+6,factura_006_1.jpg,Hogar,90910,2026-03-22,Compra utensilios de cocina,entrenamiento
+7,factura_007_1.jpg,Transporte,195720,2026-09-07,Viaje de graduación,prueba
+8,factura_008_1.jpg,Ropa y accesorios,699400,2022-11-13,Compra de prendas de vestir,entrenamiento
+9,factura_009_1.jpg,Salud,70450,2025-05-19,Compras de bebé recién nacido,entrenamiento
+10,factura_010_1.jpg,Supermercado,171220,2025-04-04,Cables e implementos de aseo para el carro,entrenamiento
+11,factura_011_1.jpg,Otros,40000,2025-02-22,Salud de mascotas,prueba
+12,factura_012_1.jpeg,Restaurantes y domicilios,46300,2026-10-26,Hamburguesa,entrenamiento
+13,factura_013_1.jpeg,Restaurantes y domicilios,44900,2026-10-26,Hamburguesa,entrenamiento
+14,factura_014_1.jpeg,Restaurantes y domicilios,44900,2026-10-26,Hamburguesa,entrenamiento
+15,factura_015_1.jpeg,Restaurantes y domicilios,17900,2026-10-26,Waffle con helado,prueba
+16,factura_016_1.jpeg,Restaurantes y domicilios,46900,2026-10-25,Hamburguesa,entrenamiento
+17,factura_017_1.jpeg,Restaurantes y domicilios,37900,2026-10-25,Hamburguesa,prueba
+18,factura_018_1.jpeg,Restaurantes y domicilios,11900,2026-10-25,Helado popsy,entrenamiento
+19,factura_019_1.jpg + factura_019_2.jpg,Salud,20350,2026-10-28,Compra de medicamentos para la garganta,prueba
+20,factura_020_1.jpg,Restaurantes y domicilios,102050,2026-10-29,Compra de pizzas grandes y más comida,prueba
+21,factura_021_1.jpg,Supermercado,117970,2026-07-25,Compra de mercado de la semana,entrenamiento
+22,factura_022_1.jpg,Supermercado,30200,2026-07-17,Compra de suministros,entrenamiento
+23,factura_023_1.jpg,Supermercado,135700,2026-10-03,Compra de comida al D1,entrenamiento
+24,factura_024_1.jpg,Supermercado,145160,2026-09-13,Compra de comida del mes,entrenamiento
+25,factura_025_1.jpg,Supermercado,54670,2026-09-29,Compra de alimentos,entrenamiento
+26,factura_026_1.jpeg,Restaurantes y domicilios,18000,2026-11-01,Batido cosechas,entrenamiento
+27,factura_027_1.jpeg,Entretenimiento,59800,2026-11-01,Cartas Pokémon,entrenamiento
+28,factura_028_1.jpeg,Supermercado,110000,2025-12-30,Gustos de compras personales,entrenamiento
+29,factura_029_1.jpeg,Supermercado,120400,2025-11-24,Gastos personales y mercado,entrenamiento
+30,factura_030_1.jpeg,Supermercado,57500,2025-10-29,Compras personales añadidas a supermercado,entrenamiento
+31,factura_031_1.jpeg,Supermercado,67000,2025-09-02,Implementos aseo,entrenamiento
+32,factura_032_1.jpeg,Supermercado,57500,2025-12-08,Compra gustos personales,entrenamiento
+33,factura_033_1.jpeg,Supermercado,110000,2025-12-20,gastos personales,prueba
+34,factura_034_1.jpeg,Supermercado,115000,2025-11-14,Gastos Personales,entrenamiento
+35,factura_035_1.jpeg,Supermercado,183450,2025-12-14,implementos personales,prueba
+36,factura_036_1.jpeg,Supermercado,100000,2024-09-15,Gastos consumos personales,prueba
+37,factura_037_1.jpeg,Supermercado,20000,2024-08-10,Consumos y gastos personales,entrenamiento
+38,factura_038_1.jpeg,Supermercado,20000,2024-06-29,Gastos personales,prueba
+39,factura_039_1.jpeg,Supermercado,38650,2024-04-29,Mercado y aseo,entrenamiento
+40,factura_040_1.png,Supermercado,62000,2026-09-18,Elementos varios supermercado,entrenamiento
+41,factura_041_1.png,Supermercado,52000,2026-07-01,Botellones de agua mercado,prueba
+42,factura_042_1.png,Supermercado,39000,2026-08-19,Mercado,entrenamiento
+43,factura_043_1.png,Supermercado,13000,2026-08-20,Mercado,entrenamiento
+44,factura_044_1.png,Supermercado,16500,2026-08-24,Mercado lonchera,prueba
+45,factura_045_1.png,Supermercado,58000,2026-11-02,Mercado de barrotes,prueba
+46,factura_046_1.png,Supermercado,22700,2026-11-02,Mercado de barrotes,entrenamiento
+47,factura_047_1.png,Supermercado,19500,2026-03-24,Recipiente desechable para lonchera,entrenamiento
+48,factura_048_1.png,Supermercado,13000,2026-02-19,Compra botellon de agua mercado,entrenamiento
+49,factura_049_1.png,Supermercado,13000,2026-01-21,Botellon de agua para el mercado,entrenamiento
+50,factura_050_1.png,Supermercado,13000,2026-02-14,"botellon de agua, mercado del mes",entrenamiento
+51,factura_051_1.png,Supermercado,52000,2026-01-28,Botellon de agua mercado anual,entrenamiento
+52,factura_052_1.png,Otros,872000,2026-02-14,Regalos para fin de año,entrenamiento
+53,factura_053_1.png,Supermercado,26000,2026-03-24,Botellon de agua mercado mensual,prueba
+54,factura_054_1.jpg,Entretenimiento,214900,2026-11-02,Cartas Pokémon del 30 aniversario binder collection,entrenamiento
+55,factura_055_1.png,Entretenimiento,13020,2026-05-04,Compra del videojuego gamble with your friends,entrenamiento
+56,factura_056_1.png,Entretenimiento,26000,2026-05-15,Compra del juego the farmer was replaced,prueba
+57,factura_057_1.png,Entretenimiento,16499,2026-06-21,Compra del videojuego meccha chamaleon,entrenamiento
+58,factura_058_1.png,Entretenimiento,26000,2026-08-19,Video juego devour,entrenamiento
+59,factura_059_1.png,Entretenimiento,73005,2026-03-22,Compra de varios juegos en la plataforma steam,prueba
+60,factura_060_1.png,Entretenimiento,6625,2026-03-19,Videojuego dungeon of the endless,entrenamiento
+61,factura_061_1.png,Entretenimiento,26000,2025-07-29,Videojuego repo,entrenamiento
+62,factura_062_1.png,Entretenimiento,11975,2025-06-29,Videojuego american truck simulator,prueba
+63,factura_063_1.png,Entretenimiento,11975,2025-06-27,Video juego euro truck simulator,entrenamiento
+64,factura_064_1.jpg + factura_064_2.jpg,Servicios,48710,2026-09-18,Gas natural septiembre,entrenamiento
+65,factura_065_1.png,Entretenimiento,27965,2025-01-23,Compra del video juego age of empires 2 definitive edition,entrenamiento
+66,factura_066_1.jpg + factura_066_2.jpg,Entretenimiento,50000,2026-10-24,Pin de Netflix por valor de 50000,entrenamiento
+67,factura_067_1.jpg + factura_067_2.jpg,Servicios,121080,2026-10-21,Factura de la energía y el aseo de octubre y usted,prueba
+68,factura_068_1.jpg + factura_068_2.jpg,Entretenimiento,50000,2026-08-21,Pin de Netflix por 50000,entrenamiento
+69,factura_069_1.jpg + factura_069_2.jpg,Otros,299900,2026-07-26,Compra pin de Microsoft office,prueba
+70,factura_070_1.jpg + factura_070_2.jpg,Servicios,50920,2026-10-21,Factura de gas de octubre,entrenamiento
+71,factura_071_1.jpg + factura_071_2.jpg,Servicios,37508,2026-10-20,Factura del agua y alcantarillado de octubre,prueba
+72,factura_072_1.jpg + factura_072_2.jpg,Servicios,33558,2026-08-24,Factura del agua y alcantarillado de agosto,entrenamiento
+73,factura_073_1.jpg + factura_073_2.jpg,Servicios,104250,2026-08-24,Factura de la energía y el aseo mes de agosto,prueba
+74,factura_074_1.jpg + factura_074_2.jpg,Servicios,40320,2026-07-23,Factura del gas mes de julio,entrenamiento
+75,factura_075_1.jpg + factura_075_2.jpg,Servicios,111990,2026-09-18,Factura de energía y el aseo mes de septiembre,entrenamiento
+76,factura_076_1.jpg + factura_076_2.jpg,Servicios,105410,2026-02-19,Factura de la energía y el aseo de febrero,entrenamiento
+77,factura_077_1.jpg,Servicios,31000,2026-10-05,factura de movistar mes de octubre,entrenamiento
+78,factura_078_1.jpg,Servicios,53900,2026-09-04,Factura Movistar de septiembre,entrenamiento
+79,factura_079_1.jpg,Restaurantes y domicilios,47300,2026-11-03,Bebidas frías en Juan Valdez,entrenamiento
+80,factura_080_1.jpg,Educación,1700000,2026-06-01,Pension Junio 2026,entrenamiento
+81,factura_081_1.jpg,Salud,134400,2026-06-09,vale electronico,entrenamiento
+82,factura_082_1.jpg + factura_082_2.jpg,Transporte,121000,2026-06-11,Transporte de pasajeros por carretera,entrenamiento
+83,factura_083_1.jpg,Restaurantes y domicilios,65900,2026-06-18,Domicilio pollo frisby,entrenamiento
+84,factura_084_1.jpg,Educación,1700000,2026-07-03,Pension Julio 2026,entrenamiento
+85,factura_085_1.jpg,Salud,134400,2026-07-15,Vale Electrónico medisanitas,prueba
+86,factura_086_1.jpg,Educación,1700000,2026-08-03,Pension Agosto 2026,entrenamiento
+87,factura_087_1.jpg,Entretenimiento,94400,2026-08-07,Boleta y comida para cine,entrenamiento
+88,factura_088_1.jpg,Educación,1700000,2026-09-01,Pension Septiembre 2026,prueba
+89,factura_089_1.jpg,Salud,52800,2026-09-22,C.M.CUOTA MODERADORA,entrenamiento
+90,factura_090_1.jpg,Educación,1700000,2026-10-01,Pension Octubre 2026,prueba
+91,factura_091_1.jpg,Entretenimiento,66300,2026-10-03,compra boleta de cine,prueba
+92,factura_092_1.jpg,Otros,946600,2026-10-16,Póliza seguros De carro,entrenamiento
+93,factura_093_1.jpg,Hogar,74500,2026-10-05,Productos para el hogar,entrenamiento
+94,factura_094_1.jpg + factura_094_2.jpg,Otros,291966,2024-06-07,Wacom Intuos Bluet Pequeña Ng,entrenamiento
+95,factura_095_1.jpg,Otros,1285200,2026-10-22,CAJA DE CARTON USADA (40cm x 30cm x 20cm aprox),entrenamiento
+96,factura_096_1.jpg + factura_096_2.jpg,Otros,2310990,2023-05-26,"Cel5G Samsung A54 128Gb ""Vd",entrenamiento
+97,factura_097_1.jpg,Educación,5794600,2026-07-18,FINANCIACIÓN CON TERCEROS PROFORMA mes julio,entrenamiento
+98,factura_098_1.jpg,Ropa y accesorios,69900,2025-04-04,Buso Adulto Capucha L Gris Cl,entrenamiento
+99,factura_099_1.jpg + factura_099_2.jpg,Otros,899900,2025-04-04,"Cel5G Honor 200 Lite 256GB ""Vr",entrenamiento
+100,factura_100_1.jpg,Educación,5794600,2026-01-23,Orden de matricula semestre 2026-1,entrenamiento
+101,factura_101_1.jpg + factura_101_2.jpg,Otros,9149050,2025-07-11,"Port 16"" ROG G614Jvr Ci9 Vd Gm; Pin Pdv McAfee 3 Dis 1 Año",prueba
+102,factura_102_1.jpg + factura_102_2.jpg,Otros,1149050,2026-03-07,"Cel4G Redmi Note15 512GB""Mr+Au",entrenamiento
+103,factura_103_1.jpg,Hogar,7900,2026-05-21,TRANSPORTE TCC,entrenamiento
+104,factura_104_1.jpg,Salud,18100,2026-02-16,copago paciente,entrenamiento
+105,factura_105_1.jpg,Ropa y accesorios,457400,2026-01-13,Compra de gafas,entrenamiento
+106,factura_106_1.jpg,Salud,52448,2025-12-20,Compra de crema e insumos de droguería,prueba
+107,factura_107_1.jpg + factura_107_2.jpg,Transporte,10330,2026-10-30,Pon tu precio - Didi,entrenamiento
+108,factura_108_1.jpg + factura_108_2.jpg,Transporte,19760,2026-10-04,Taxi - Didi,entrenamiento
+109,factura_109_1.jpg + factura_109_2.jpg,Transporte,16001,2026-10-08,Pon tu precio - Didi,entrenamiento
+110,factura_110_1.jpg + factura_110_2.jpg,Transporte,17135,2026-10-29,Express - Didi,prueba
+111,factura_111_1.jpg + factura_111_2.jpg,Transporte,12825,2026-10-29,Express - Didi,prueba
+112,factura_112_1.jpg + factura_112_2.jpg,Transporte,12525,2026-10-28,Pon tu precio - Didi,prueba
+113,factura_113_1.jpg + factura_113_2.jpg,Transporte,13988,2026-10-28,Pon tu precio - Didi,entrenamiento
+114,factura_114_1.jpg + factura_114_2.jpg,Transporte,12120,2026-10-26,Pon tu precio,entrenamiento
+115,factura_115_1.jpg + factura_115_2.jpg,Transporte,9690,2026-10-07,Express - Didi,prueba
+116,factura_116_1.jpg + factura_116_2.jpg,Transporte,15030,2026-10-21,Pon tu precio - Didi,entrenamiento
+117,factura_117_1.jpg,Transporte,15700,2026-10-04,Pago de peaje,entrenamiento
+118,factura_118_1.png,Transporte,10000,2026-10-08,Gasolina,entrenamiento
+119,factura_119_1.png,Transporte,10000,2026-10-02,Gasolina,entrenamiento
+120,factura_120_1.png,Transporte,651931,2026-09-30,gasolina,entrenamiento
+121,factura_121_1.png,Transporte,10000,2026-10-20,gasolina,entrenamiento
+122,factura_122_1.png,Transporte,10000,2026-10-14,gasolina,entrenamiento
+123,factura_123_1.png,Transporte,596790,2026-10-16,Gasolina,entrenamiento
+124,factura_124_1.png,Transporte,121157,2026-09-16,gasolina,entrenamiento
+125,factura_125_1.png,Transporte,10000,2026-09-15,gasolina,entrenamiento
+126,factura_126_1.png,Transporte,211621,2026-09-19,gasolina,entrenamiento
+127,factura_127_1.png,Transporte,341794,2026-09-16,gasolina,entrenamiento
+128,factura_128_1.png,Servicios,242574,2026-10-23,plan movil,entrenamiento
+129,factura_129_1.png,Servicios,242574,2026-09-23,linea movil,entrenamiento
+130,factura_130_1.png,Servicios,0,2026-09-23,linea movil,prueba
+131,factura_131_1.png,Servicios,50093,2026-08-26,linea movil,entrenamiento
+132,factura_132_1.png,Servicios,242574,2026-08-26,linea movil,entrenamiento
+133,factura_133_1.png,Servicios,60431,2026-07-23,linea movil,entrenamiento
+134,factura_134_1.png,Servicios,242575,2026-07-23,linea movil,entrenamiento
+135,factura_135_1.jpg,Otros,635403,2025-10-02,Seguro de automóviles o camiones,entrenamiento
+136,factura_136_1.jpg,Hogar,1694870,2026-01-31,Compra de implementos e insumos para el hogar,prueba
+137,factura_137_1.jpg,Transporte,20000,2026-09-19,Pago Electrónico De Peajes Y Parqueaderos,entrenamiento
+138,factura_138_1.jpg,Transporte,4650,2026-10-04,peaje,prueba
+139,factura_139_1.jpg,Salud,63800,2026-10-08,vale Electrónico medisanitas,entrenamiento
+140,factura_140_1.jpg,Salud,67200,2026-01-24,Vale electronico,entrenamiento
+141,factura_141_1.jpg,Salud,134400,2026-08-21,Vale Electrónico,entrenamiento
+142,factura_142_1.jpg,Educación,1700000,2026-03-01,Pensión Marzo 2026,entrenamiento
+143,factura_143_1.jpg,Salud,50300,2025-11-24,C.M.CUOTA MODERADORA,entrenamiento

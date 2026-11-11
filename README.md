@@ -8,6 +8,10 @@
   Profesor: José Alejandro Franco Calderón
 </p>
 
+<p align="center">
+  📱 <b>Código de la app PocketPal (Android, Kotlin):</b> <a href="https://github.com/Mikemil0/PocketPal">github.com/Mikemil0/PocketPal</a>
+</p>
+
 ---
 
 ## ¿Qué es Dai?
@@ -51,6 +55,28 @@ Construimos nuestro propio dataset con facturas reales colombianas recolectadas 
 | Fotos de baja resolución | 37 de 173 (21 %), incluidas a propósito: así llegan en la vida real |
 
 <p align="center"><img src="imagenes/grafica_categorias_split.png" width="85%"></p>
+
+### 🗂️ Vista del dataset
+
+Cada factura tiene su foto y las 4 respuestas correctas (las **etiquetas**) que Dai debe aprender a llenar. Una factura por categoría:
+
+| # | Foto | Categoría | Monto | Fecha | Motivo | Conjunto |
+|---|---|---|---:|---|---|---|
+| 1 | `factura_001_1.jpg` | Ropa y accesorios | $ 20.000 | 2026-10-10 | Compra de piedras decorativas para ropa | prueba |
+| 2 | `factura_002_1.jpeg` | Restaurantes y domicilios | $ 97.000 | 2026-10-24 | Compra de desayuno | entrenamiento |
+| 3 | `factura_003_1.jpg + factura_003_2.jpg` | Supermercado | $ 985.694 | 2026-06-15 | Mercado del mes de junio | entrenamiento |
+| 4 | `factura_004_1.jpg` | Transporte | $ 64.000 | 2026-10-15 | Gasolina del carro | prueba |
+| 5 | `factura_005_1.jpg` | Entretenimiento | $ 93.200 | 2026-10-06 | Boletas de cine | entrenamiento |
+| 6 | `factura_006_1.jpg` | Hogar | $ 90.910 | 2026-03-22 | Compra utensilios de cocina | entrenamiento |
+| 9 | `factura_009_1.jpg` | Salud | $ 70.450 | 2025-05-19 | Compras de bebé recién nacido | entrenamiento |
+| 11 | `factura_011_1.jpg` | Otros | $ 40.000 | 2025-02-22 | Salud de mascotas | prueba |
+| 64 | `factura_064_1.jpg + factura_064_2.jpg` | Servicios | $ 48.710 | 2026-09-18 | Gas natural septiembre | entrenamiento |
+| 80 | `factura_080_1.jpg` | Educación | $ 1.700.000 | 2026-06-01 | Pension Junio 2026 | entrenamiento |
+
+📂 **[Ver el dataset completo (143 facturas)](datos/dataset_facturas.csv)**: GitHub lo muestra como una tabla en la que se puede buscar.
+
+> Para proteger la privacidad, el dataset publicado **no incluye** nombres, correos ni las fotos de las facturas.
+
 
 ## Paso 1 · Elegir el modelo OCR
 
@@ -122,7 +148,8 @@ La métrica principal del proyecto es el **% de facturas que el usuario no tendr
 
 ## Integración con PocketPal
 
-Dai corre como un **servidor** (FastAPI en Google Colab) y la app Android le envía la foto:
+Dai corre como un **servidor** (FastAPI en Google Colab) y la app Android le envía la foto.
+El código de la app y su conexión con Dai están en el repositorio de **[PocketPal](https://github.com/Mikemil0/PocketPal)**.
 
 ```mermaid
 sequenceDiagram
@@ -157,6 +184,7 @@ dai_ia/
 │   ├── 01_dataset_facturas.ipynb          → limpieza y organización del dataset
 │   ├── 02_comparacion_ocr_facturas.ipynb  → comparación OCR, clasificadores y motivo
 │   └── 03_dai_servidor_colab.ipynb        → servidor que usa la app en la demo
+├── datos/dataset_facturas.csv             → el dataset etiquetado (sin datos personales)
 ├── imagenes/                              → gráficas de los resultados
 └── resultados/                            → tablas en CSV
 ```
